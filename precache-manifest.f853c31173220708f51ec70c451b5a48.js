@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb333fc3719869238b9feb909fd74e29",
+    "revision": "68b11add8fafb887ec2815a9837026ec",
     "url": "/reignn/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reignn/static/css/5.312891d4.chunk.css"
   },
   {
-    "revision": "61e83519d43193b8b2c6",
+    "revision": "9b95e8ce8aefa2d0a7b1",
     "url": "/reignn/static/css/main.bb85bd7a.chunk.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reignn/static/js/5.f605ba98.chunk.js"
   },
   {
-    "revision": "61e83519d43193b8b2c6",
-    "url": "/reignn/static/js/main.c6107781.chunk.js"
+    "revision": "9b95e8ce8aefa2d0a7b1",
+    "url": "/reignn/static/js/main.80933767.chunk.js"
   },
   {
     "revision": "41404799a4ff070c8817",

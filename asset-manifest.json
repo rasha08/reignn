@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reignn/static/css/main.bb85bd7a.chunk.css",
-    "main.js": "/reignn/static/js/main.c6107781.chunk.js",
-    "main.js.map": "/reignn/static/js/main.c6107781.chunk.js.map",
+    "main.js": "/reignn/static/js/main.80933767.chunk.js",
+    "main.js.map": "/reignn/static/js/main.80933767.chunk.js.map",
     "runtime-main.js": "/reignn/static/js/runtime-main.d12a461d.js",
     "runtime-main.js.map": "/reignn/static/js/runtime-main.d12a461d.js.map",
     "static/js/2.a3dfc409.chunk.js": "/reignn/static/js/2.a3dfc409.chunk.js",
@@ -16,7 +16,7 @@
     "static/js/5.f605ba98.chunk.js": "/reignn/static/js/5.f605ba98.chunk.js",
     "static/js/5.f605ba98.chunk.js.map": "/reignn/static/js/5.f605ba98.chunk.js.map",
     "index.html": "/reignn/index.html",
-    "precache-manifest.54a3e554e98a4e59962435fb35b1e8c0.js": "/reignn/precache-manifest.54a3e554e98a4e59962435fb35b1e8c0.js",
+    "precache-manifest.f853c31173220708f51ec70c451b5a48.js": "/reignn/precache-manifest.f853c31173220708f51ec70c451b5a48.js",
     "service-worker.js": "/reignn/service-worker.js",
     "static/css/4.50bf4612.chunk.css.map": "/reignn/static/css/4.50bf4612.chunk.css.map",
     "static/css/5.312891d4.chunk.css.map": "/reignn/static/css/5.312891d4.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.d12a461d.js",
     "static/js/3.e416016b.chunk.js",
     "static/css/main.bb85bd7a.chunk.css",
-    "static/js/main.c6107781.chunk.js"
+    "static/js/main.80933767.chunk.js"
   ]
 }

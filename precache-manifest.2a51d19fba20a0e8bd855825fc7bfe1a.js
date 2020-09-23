@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "68b11add8fafb887ec2815a9837026ec",
+    "revision": "6c5719bb32d95c7760f9a3ba8fcfb095",
     "url": "/reignn/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reignn/static/css/4.50bf4612.chunk.css"
   },
   {
-    "revision": "e9aca61d9ec735ae3dd3",
+    "revision": "dbb2adaa44e023ecba55",
     "url": "/reignn/static/css/5.312891d4.chunk.css"
   },
   {
@@ -36,15 +36,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reignn/static/js/4.1484e066.chunk.js"
   },
   {
-    "revision": "e9aca61d9ec735ae3dd3",
-    "url": "/reignn/static/js/5.f605ba98.chunk.js"
+    "revision": "dbb2adaa44e023ecba55",
+    "url": "/reignn/static/js/5.d43d061f.chunk.js"
   },
   {
     "revision": "9b95e8ce8aefa2d0a7b1",
     "url": "/reignn/static/js/main.80933767.chunk.js"
   },
   {
-    "revision": "41404799a4ff070c8817",
-    "url": "/reignn/static/js/runtime-main.d12a461d.js"
+    "revision": "d2c318aeb364d65187ef",
+    "url": "/reignn/static/js/runtime-main.917528cd.js"
   }
 ]);

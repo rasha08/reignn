@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reignn/precache-manifest.f853c31173220708f51ec70c451b5a48.js"
+  "/reignn/precache-manifest.2a51d19fba20a0e8bd855825fc7bfe1a.js"
 );
 
 self.addEventListener('message', (event) => {
